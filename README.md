@@ -20,6 +20,11 @@ A lightweight Android web browser built with Kotlin and Jetpack Compose, focused
 - Pop-up blocking
 - Do Not Track option
 
+## Project Details
+
+- Package Name: `com.browser.app9999`
+- Status: Client Project — UI, features, and availability may change in the future.
+
 ## Tech Stack
 
 - Kotlin
